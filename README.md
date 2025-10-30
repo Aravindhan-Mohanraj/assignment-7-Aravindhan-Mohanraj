@@ -8,10 +8,12 @@
 
 ## 📂 Repository Overview
 **Files included:**
-- `DA_Assignment_7.ipynb` — Jupyter Notebook with full workflow and visuals  
-- `README.md` — Project overview and run instructions  
+- `DA5401 A7 Model Selection.pdf` - Problem Statement.
+- `DA_Assignment_7.ipynb` - Jupyter Notebook with full workflow and visuals  
+- `README.md` - Project overview and run instructions  
 - **Dataset**: Statlog *Landsat Satellite* (`sat.trn`, `sat.tst`) — provided separately
 - `sat.doc` : Description about the dataset
+
 
 ---
 
