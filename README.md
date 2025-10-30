@@ -106,7 +106,7 @@ Because classes are **imbalanced**, standard metrics can mislead. The task empha
 
 4. **Launch the notebook:**
    ```bash
-   jupyter notebook DA_Assignment_7.ipynb
+   jupyter notebook DA_Assignment-7.ipynb
    ```
 
 ---
